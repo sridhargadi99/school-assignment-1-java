@@ -1,0 +1,3 @@
+2023-04-25 11:09:57 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SCHOOL" not found; SQL statement:
+select * from school [42102-214]
